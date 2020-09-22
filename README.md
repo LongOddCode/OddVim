@@ -1,2 +1,2 @@
-# VimSetup
+# OddVim
 Auto setup vim development.
